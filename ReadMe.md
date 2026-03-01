@@ -1,30 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
-<h2 align="center">Hi 👋 I'm Muhammet Yusuf ÖZKAN</h2>
-<h4 align="center">Embedded Systems & Control Engineering Enthusiast</h4>
+<h2 align="center">Muhammet Yusuf ÖZKAN</h2>
+<h4 align="center">Embedded Systems & Control</h4>
 
-Electrical & Electronics Engineering student focused on **embedded firmware, real-time systems and intelligent control**.
+Electrical & Electronics Engineering student working on embedded firmware and real-time control systems.
 
-I design and develop real-time applications with **STM32 microcontrollers**, build **PID-based autonomous robotic systems**, and enjoy low-level hardware–software integration.
+Developing applications with STM32, implementing PID-based autonomous vehicle control, and focusing on low-level hardware–software integration.
 
-I am particularly interested in:
-- Embedded firmware architecture
-- Real-time communication protocols
-- Autonomous robotic systems
-- Hardware-software co-design
-
-Previously, I worked on **AI and computer vision projects** using Python-based frameworks, building a strong analytical and algorithmic background.
+Background in AI and computer vision with Python-based tools.
 
 ---
 
 ## 🚀 Current Focus
 
-- Advanced STM32 firmware development  
+- STM32 firmware development  
 - Real-time communication (UART, SPI, I2C, CAN)  
-- ROS 2 based robotic systems  
-- Control algorithms for autonomous vehicles  
-
----
+- ROS 2 integration  
+- Control algorithms for robotics  
 
 ## 🌐 Connect With Me
 
