@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yusuf.<br>Electrical & Electronics Engineering student focused on embedded systems and control.<br>I build real-time systems with STM32, work on PID-based autonomous vehicles, and enjoy low-level hardware-software integration.<br>Currently improving myself in microcontrollers, communication protocols and robotics.
+Hi, I'm Muhammet Yusuf ÖZKAN.<br>Electrical & Electronics Engineering student focused on embedded systems and control.<br>I build real-time systems with STM32, work on PID-based autonomous vehicles, and enjoy low-level hardware-software integration.<br>Currently improving myself in microcontrollers, communication protocols and robotics.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,5 @@ Hi, I'm Yusuf.<br>Electrical & Electronics Engineering student focused on embedd
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alcad1us&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alcad1us&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
