@@ -1,6 +1,5 @@
-# <h2 align="center">Muhammet Yusuf ÖZKAN</h2>
-
-<h4 align="center">Embedded Systems & Control</h4>
+<h1 align="center">Muhammet Yusuf ÖZKAN</h1>
+<h3 align="center">Embedded Systems & Control Engineering</h3>
 
 Electrical & Electronics Engineering student working on embedded firmware and real-time control systems.
 
