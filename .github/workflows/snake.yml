@@ -25,7 +25,24 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%2300FF41&color_dots=%23EBFFEF,%23B6FFCA,%235CFF82,%2300C853,%23006B2B
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FF41&color_dots=%23000600,%23003300,%23006600,%2300AA00,%2300FF41
 
-      - name: Publish snake SVGs
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Test profile card generator
+        working-directory: .github/scripts
+        run: python -m unittest -v test_generate_profile_cards.py
+
+      - name: Generate Matrix profile cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          python .github/scripts/generate_profile_cards.py
+          --username "${{ github.repository_owner }}"
+          --output-dir dist
+
+      - name: Publish profile SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist

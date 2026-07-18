@@ -234,8 +234,8 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alcad1us&show_icons=true&hide_border=true&bg_color=050805&title_color=39FF14&icon_color=00FF41&text_color=C9FFD5&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcad1us&layout=compact&hide_border=true&bg_color=050805&title_color=39FF14&text_color=C9FFD5&langs_count=8" alt="Top languages" />
+<img height="170" src="https://raw.githubusercontent.com/alcad1us/alcad1us/output/github-stats.svg?v=matrix2" alt="GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/alcad1us/alcad1us/output/top-languages.svg?v=matrix2" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=alcad1us&hide_border=true&background=050805&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideNums=C9FFD5&currStreakNum=39FF14&sideLabels=00C853&dates=6B8E73" alt="GitHub streak" />
 
@@ -243,11 +243,11 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alcad1us&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/alcad1us/alcad1us/output/github-highlights.svg?v=matrix2" alt="GitHub highlights" />
 
 </div>
 
