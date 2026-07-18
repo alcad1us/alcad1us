@@ -1,20 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=Muhammet%20Yusuf%20Ozkan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Electronics&descAlignY=58&descSize=18" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0A,50:00C853,100:003B1F&height=180&section=header&text=Muhammet%20Yusuf%20Ozkan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Electronics&descAlignY=58&descSize=18" alt="Header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Electrical+%26+Electronics+Engineering+Student;Building+STM32+and+ROS+2+Systems;Designing+PCBs+and+Autonomous+Robots;Turning+Datasheets+into+Working+Hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=Electrical+%26+Electronics+Engineering+Student;Building+STM32+and+ROS+2+Systems;Designing+PCBs+and+Autonomous+Robots;Turning+Datasheets+into+Working+Hardware)](https://git.io/typing-svg)
 
-![EEE](https://img.shields.io/badge/Electrical_%26_Electronics_Engineering-Konya_Technical_University-6d28d9?style=flat-square)
-![Location](https://img.shields.io/badge/Konya-T%C3%BCrkiye-4338ca?style=flat-square&logo=googlemaps&logoColor=white)
-![Open To](https://img.shields.io/badge/Open_to-Embedded_%26_Robotics_Opportunities-7c3aed?style=flat-square)
+![EEE](https://img.shields.io/badge/Electrical_%26_Electronics_Engineering-Konya_Technical_University-00C853?style=flat-square)
+![Location](https://img.shields.io/badge/Konya-T%C3%BCrkiye-00A82D?style=flat-square&logo=googlemaps&logoColor=white)
+![Open To](https://img.shields.io/badge/Open_to-Embedded_%26_Robotics_Opportunities-00FF41?style=flat-square)
 
 [![GitHub](https://img.shields.io/badge/GitHub-alcad1us-181717?style=for-the-badge&logo=github)](https://github.com/alcad1us)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alcad1us?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Projects-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alcad1us?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusufozkan1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufozkan1)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusuynakzo@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=alcad1us&style=for-the-badge&color=6d28d9)
-[![Followers](https://img.shields.io/github/followers/alcad1us?style=for-the-badge&color=4f46e5&labelColor=18181b)](https://github.com/alcad1us?tab=followers)
-[![Stars](https://img.shields.io/github/stars/alcad1us?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=18181b)](https://github.com/alcad1us?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusuynakzo@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=alcad1us&style=for-the-badge&color=00C853)
+[![Followers](https://img.shields.io/github/followers/alcad1us?style=for-the-badge&color=00C853&labelColor=020805)](https://github.com/alcad1us?tab=followers)
+[![Stars](https://img.shields.io/github/stars/alcad1us?affiliations=OWNER&style=for-the-badge&color=00FF41&labelColor=020805)](https://github.com/alcad1us?tab=repositories)
 
 </div>
 
@@ -41,18 +41,18 @@ My current work spans **STM32 firmware, FreeRTOS, micro-ROS, PID motor control, 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![micro-ROS](https://img.shields.io/badge/micro--ROS-5B21B6?style=for-the-badge&logo=ros&logoColor=white)
+![micro-ROS](https://img.shields.io/badge/micro--ROS-008F11?style=for-the-badge&logo=ros&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Nav2](https://img.shields.io/badge/ROS_2_Nav2-4338CA?style=for-the-badge&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/ROS_2_Nav2-00A82D?style=for-the-badge&logo=ros&logoColor=white)
 
 ### Interfaces & Engineering Tools
 
-![UART](https://img.shields.io/badge/UART-4C1D95?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-5B21B6?style=flat-square)
-![I2C](https://img.shields.io/badge/I%C2%B2C-6D28D9?style=flat-square)
-![USB CDC](https://img.shields.io/badge/USB_CDC-7C3AED?style=flat-square&logo=usb&logoColor=white)
-![SWD](https://img.shields.io/badge/SWD-4338CA?style=flat-square)
+![UART](https://img.shields.io/badge/UART-001A0A?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-008F11?style=flat-square)
+![I2C](https://img.shields.io/badge/I%C2%B2C-00C853?style=flat-square)
+![USB CDC](https://img.shields.io/badge/USB_CDC-00FF41?style=flat-square&logo=usb&logoColor=white)
+![SWD](https://img.shields.io/badge/SWD-00A82D?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -214,8 +214,8 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 ## Certifications & Learning
 
-![CS50P](https://img.shields.io/badge/Harvard_CS50P-In_Progress-6D28D9?style=for-the-badge&logo=edx&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-Hands--on_Project_Learning-4338CA?style=for-the-badge&logo=ros&logoColor=white)
+![CS50P](https://img.shields.io/badge/Harvard_CS50P-In_Progress-00C853?style=for-the-badge&logo=edx&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-Hands--on_Project_Learning-00A82D?style=for-the-badge&logo=ros&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-Hands--on_Project_Learning-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ---
@@ -234,10 +234,10 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alcad1us&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcad1us&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alcad1us&show_icons=true&hide_border=true&bg_color=050805&title_color=39FF14&icon_color=00FF41&text_color=C9FFD5&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcad1us&layout=compact&hide_border=true&bg_color=050805&title_color=39FF14&text_color=C9FFD5&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=alcad1us&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=alcad1us&hide_border=true&background=050805&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideNums=C9FFD5&currStreakNum=39FF14&sideLabels=00C853&dates=6B8E73" alt="GitHub streak" />
 
 </div>
 
@@ -247,7 +247,7 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alcad1us&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=alcad1us&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
@@ -257,7 +257,7 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alcad1us&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alcad1us&bg_color=050805&color=8AFF9B&line=00FF41&point=39FF14&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -267,7 +267,7 @@ Contributing to an AI-assisted guided autonomous load-carrying robot designed to
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alcad1us/alcad1us/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/alcad1us/alcad1us/output/github-contribution-grid-snake-dark.svg?v=matrix" alt="Contribution snake" />
 
 </div>
 
@@ -301,8 +301,8 @@ open_to:
 
 [![GitHub](https://img.shields.io/badge/GitHub-alcad1us-181717?style=for-the-badge&logo=github)](https://github.com/alcad1us)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusufozkan1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufozkan1)
-[![Email](https://img.shields.io/badge/Email-fusuynakzo%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusuynakzo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-6D28D9?style=for-the-badge&logo=github)](https://github.com/alcad1us?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-fusuynakzo%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fusuynakzo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00C853?style=for-the-badge&logo=github)](https://github.com/alcad1us?tab=repositories)
 
 </div>
 
@@ -314,4 +314,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=110&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003B1F,50:00C853,100:001A0A&height=110&section=footer" alt="Footer" />
