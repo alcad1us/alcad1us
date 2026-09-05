@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="170" role="img" aria-label="GitHub Stats">
+  <title>GitHub Stats</title>
+  <rect width="100%" height="100%" rx="10" fill="#050805" stroke="#123d22"/>
+  <style>
+    .title { fill: #00ff41; font: 700 18px 'Segoe UI', sans-serif; }
+    .label { fill: #6b8e73; font: 12px 'Segoe UI', sans-serif; }
+    .value { fill: #c9ffd5; font: 700 22px 'Cascadia Code', monospace; }
+    .mono { fill: #c9ffd5; font: 600 12px 'Cascadia Code', monospace; }
+  </style>
+  <text x="22" y="30" class="title">GitHub Stats</text>
+  <text x="22" y="72" class="value">9</text><text x="22" y="92" class="label">REPOSITORIES</text>
+  <text x="232" y="72" class="value">8</text><text x="232" y="92" class="label">TOTAL STARS</text>
+  <text x="22" y="137" class="value">2</text><text x="22" y="157" class="label">FOLLOWERS</text>
+  <text x="232" y="137" class="value">0</text><text x="232" y="157" class="label">TOTAL FORKS</text>
+</svg>

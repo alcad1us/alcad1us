@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="150" role="img" aria-label="GitHub Highlights">
+  <title>GitHub Highlights</title>
+  <rect width="100%" height="100%" rx="10" fill="#050805" stroke="#123d22"/>
+  <style>
+    .title { fill: #00ff41; font: 700 18px 'Segoe UI', sans-serif; }
+    .label { fill: #6b8e73; font: 12px 'Segoe UI', sans-serif; }
+    .value { fill: #c9ffd5; font: 700 22px 'Cascadia Code', monospace; }
+    .mono { fill: #c9ffd5; font: 600 12px 'Cascadia Code', monospace; }
+  </style>
+  <text x="22" y="30" class="title">GitHub Highlights</text>
+  <circle cx="112" cy="76" r="38" fill="none" stroke="#00ff41" stroke-width="3"/><text x="112" y="82" class="value" text-anchor="middle">9</text><text x="112" y="132" class="label" text-anchor="middle">PROJECTS</text>
+  <circle cx="334" cy="76" r="38" fill="none" stroke="#00c853" stroke-width="3"/><text x="334" y="82" class="value" text-anchor="middle">8</text><text x="334" y="132" class="label" text-anchor="middle">STARS EARNED</text>
+  <circle cx="556" cy="76" r="38" fill="none" stroke="#00a82d" stroke-width="3"/><text x="556" y="82" class="value" text-anchor="middle">2</text><text x="556" y="132" class="label" text-anchor="middle">FOLLOWERS</text>
+  <circle cx="778" cy="76" r="38" fill="none" stroke="#008f11" stroke-width="3"/><text x="778" y="82" class="value" text-anchor="middle">3</text><text x="778" y="132" class="label" text-anchor="middle">YEARS ON GITHUB</text>
+</svg>
